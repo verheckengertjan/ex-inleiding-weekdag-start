@@ -1,0 +1,15 @@
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\bin\Debug\Lijsten.wpf.exe.config
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\bin\Debug\Lijsten.wpf.exe
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\bin\Debug\Lijsten.wpf.pdb
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.csprojAssemblyReference.cache
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\MainWindow.g.cs
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\App.g.cs
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf_MarkupCompile.cache
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf_MarkupCompile.lref
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\MainWindow.baml
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.g.resources
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.Properties.Resources.resources
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.csproj.GenerateResource.cache
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.csproj.CoreCompileInputs.cache
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.exe
+D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.pdb
