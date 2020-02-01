@@ -13,3 +13,17 @@ D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.csproj.GenerateResource.c
 D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.csproj.CoreCompileInputs.cache
 D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.exe
 D:\PRB\A-H01\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.pdb
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.csprojAssemblyReference.cache
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\obj\Debug\MainWindow.g.cs
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\obj\Debug\App.g.cs
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf_MarkupCompile.cache
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf_MarkupCompile.lref
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.exe
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.pdb
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\bin\Debug\Lijsten.wpf.exe.config
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\bin\Debug\Lijsten.wpf.exe
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\bin\Debug\Lijsten.wpf.pdb
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\obj\Debug\MainWindow.baml
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.g.resources
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.Properties.Resources.resources
+C:\Howest\ex-inleiding-weekdag-start\Lijsten\Lijsten.wpf\obj\Debug\Lijsten.wpf.csproj.GenerateResource.cache

@@ -7,9 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
     <Grid>
-        <ListBox x:Name="lstWeekdagen" HorizontalAlignment="Left" Height="100" Margin="10,53,0,0" VerticalAlignment="Top" Width="100" SelectionChanged="LstWeekdagen_SelectionChanged"/>
+        <ListBox x:Name="lstWeekdagen" HorizontalAlignment="Left" Height="159" Margin="10,53,0,0" VerticalAlignment="Top" Width="138" SelectionChanged="lstWeekdagen_SelectionChanged"/>
         <Label Content="Weekdagen" HorizontalAlignment="Left" Margin="11,15,0,0" VerticalAlignment="Top" Width="99"/>
-        <ComboBox x:Name="cmbWeekdagNummer" HorizontalAlignment="Left" Margin="170,53,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="CmbWeekdagNummer_SelectionChanged"/>
+        <ComboBox x:Name="cmbWeekdagNummer" HorizontalAlignment="Left" Margin="170,53,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="cmbWeekdagNummer_SelectionChanged"/>
         <Label Content="Weekdagnummers" HorizontalAlignment="Left" Margin="170,15,0,0" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
